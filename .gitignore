@@ -1,0 +1,4 @@
+.idea
+terraform/
+Dockerfile
+git-rename-user
